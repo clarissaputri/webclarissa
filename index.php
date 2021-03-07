@@ -22,9 +22,9 @@
 </div>
 <header>
 	<div class="container">
-		<h1><a href="index.html">CLARISSA</a></h1>
+		<h1><a href="index.php">CLARISSA</a></h1>
 		<ul>
-			<li class="active"><a href="index.html">HOME</a></li>
+			<li class="active"><a href="index.php">HOME</a></li>
 			<li><a href="myproject.html">MY PROJECT</a></li>
 			<li><a href="aboutme.html">ABOUT ME</a></li>
 			<li><a href="askme.html">ASK ME</a></li>
